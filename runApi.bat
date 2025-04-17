@@ -1,0 +1,1 @@
+C:\jason\app\jdk-22.0.1\bin\java -jar target\customer-api.jar > customer-api.txt

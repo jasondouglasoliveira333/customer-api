@@ -1,0 +1,1 @@
+create table todo_user (id int4 not null, creation_date timestamp, last_access timestamp, name varchar(255), password varchar(255), primary key (id));
